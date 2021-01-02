@@ -1,0 +1,21 @@
+
+body {
+  background-color: teal;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: san-serif;
+  font-size: 20px;
+}
+
+#intro{
+	color: orange;
+	height: 30px;
+	width: auto;
+	background-color: black;
+}
